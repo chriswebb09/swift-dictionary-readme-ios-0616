@@ -28,3 +28,9 @@ definition = favoriteWords["strategery"]
 
 favoriteWords["strategery"] = nil
 print(favoriteWords)
+
+var anotherDictionary = ["hello": "me"]
+
+anotherDictionary["hello"]
+
+
